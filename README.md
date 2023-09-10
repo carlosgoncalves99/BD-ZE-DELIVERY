@@ -1,6 +1,6 @@
 # BD-ZE-DELIVERY
 PROJETO DE BANCOS DE DADOS DE UM APLICATIVO DE DELIVERY DE BEBIDAS
-<img src="https://github.com/carlosgoncalves99/BD-ZE-DELIVERY/assets/138076792/be845659-4f0e-4aaf-b731-36832cfaefd3
-"/>
+<img src= 
+![BD ZE DELIVERY 2 drawio](https://github.com/carlosgoncalves99/BD-ZE-DELIVERY/assets/138076792/705a2133-09c5-46fc-9bc2-a1ac71a875c6)
 
 
